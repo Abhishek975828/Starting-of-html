@@ -1,0 +1,12 @@
+.abhi{
+    background-color: rgb(213, 120, 134);
+}
+#name{
+    color: aqua;
+}
+#age{
+    color: green;
+}
+h2:hover{
+    background-color: orange;
+}
