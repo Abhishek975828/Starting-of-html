@@ -1,0 +1,23 @@
+h1{ 
+    background-color: aqua;
+    text-align: center;
+
+}
+body{
+text-align: center;
+}
+.about{
+    background-color: rgb(17, 67, 67);
+}
+.blog{
+    background-color: blueviolet;
+}
+.tip{
+    background-color: cornflowerblue;
+}
+.tool{
+    background-color: yellow;
+}
+.info{
+    background-color: brown;
+}
